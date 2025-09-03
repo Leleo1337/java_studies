@@ -1,6 +1,6 @@
-package estudos.variaveis;
+package estudos.variables;
 
-public class Main {
+public class Variables {
     public static void main(String[] args) {
         /*
          Tipos de dados em Java:
