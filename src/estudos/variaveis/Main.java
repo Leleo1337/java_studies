@@ -1,4 +1,4 @@
-package variaveis;
+package estudos.variaveis;
 
 public class Main {
     public static void main(String[] args) {
@@ -23,13 +23,15 @@ public class Main {
          boolean => true ou false
         */
 
-        int minhaIdade = 17;
-        String meuNome = "Leo";
-        char inicial = 'L';
-        boolean maiorDeIdade = minhaIdade >= 18;
+        int age = 17;
+        int year = 2025;
+        int quantity = 1;
 
-        System.out.println("Eu sou " + meuNome + ", tenho " + minhaIdade + " anos");
-        System.out.println("Minha inicial é " + inicial);
-        System.out.println("Sou maior de idade? " + (maiorDeIdade ? "Sim": "Não"));
+        double price = 19.99;
+        double gpa = 3.5;
+        double temperature = -12.5;
+
+        System.out.println("R$ " +price);
+
     }
 }
