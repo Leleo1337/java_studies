@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class RetangleArea {
     public static void main(String[] args) {
-        
+
         // calculate area of a retangle
 
         double width = 0;
@@ -21,7 +21,7 @@ public class RetangleArea {
 
         area = width * heigth;
 
-        System.out.println("A area desse retangulo é: " + area);
+        System.out.println("A area desse retangulo é: " + area + "cm²");
 
         scanner.close();
     }
