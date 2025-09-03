@@ -31,7 +31,25 @@ public class Main {
         double gpa = 3.5;
         double temperature = -12.5;
 
-        System.out.println("R$ " +price);
+        char grade = 'A';
+        char symbol = '!';
+        char currency = '$';
 
+        boolean isStudent = true;
+        boolean forSale = false;
+        boolean isOnline = true;
+
+        String name = "Leo";
+        String nickname = "leleo1337";
+        String food = "pizza";
+        String color = "purple";
+
+        System.out.println("hello " + name);
+        System.out.println("You are " + age + " years old!");
+        System.out.println("Your gpa is " + gpa);
+        System.out.println("Your average letter grade is: " + grade);
+
+        System.out.println("Your favorite color is: " + color);
+        System.out.println("Your favorite food is: " + food);
     }
 }
