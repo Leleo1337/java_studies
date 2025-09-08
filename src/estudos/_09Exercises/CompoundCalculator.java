@@ -1,8 +1,8 @@
-package estudos.compoundCalculator;
+package estudos._09Exercises;
 
 import java.util.Scanner;
 
-public class Calculator {
+public class CompoundCalculator {
     public static void main(String[] args) {
 
         // compount interest calculator

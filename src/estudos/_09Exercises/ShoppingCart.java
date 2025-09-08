@@ -1,4 +1,4 @@
-package estudos.arithmetic;
+package estudos._09Exercises;
 
 import java.util.Scanner;
 
