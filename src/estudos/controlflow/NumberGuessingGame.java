@@ -21,7 +21,7 @@ public class NumberGuessingGame {
 
         System.out.printf("Guess a number between %d - %d: ", range[0], range[1]);
 
-        double randomNumber = Math.ceil(Math.random() * (range[1] - range[0]) + range[0]);
+        int randomNumber = (int) Math.ceil(Math.random() * (range[1] - range[0]) + range[0]);
 
         while (guess != randomNumber) {
             guess = scanner.nextInt();
