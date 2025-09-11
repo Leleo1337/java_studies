@@ -26,6 +26,7 @@ public class NumberGuessingGame {
             }
         }
 
+        System.out.println("You have won!");
 
     }
 }
