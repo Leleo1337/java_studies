@@ -1,4 +1,4 @@
-package estudos.mathClass;
+package estudos._09Exercises.mathClass;
 
 import java.util.Scanner;
 

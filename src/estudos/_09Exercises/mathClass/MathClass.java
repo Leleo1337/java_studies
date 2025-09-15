@@ -1,4 +1,4 @@
-package estudos.mathClass;
+package estudos._09Exercises.mathClass;
 
 public class MathClass {
     public static void main(String[] args) {
