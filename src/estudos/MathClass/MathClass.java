@@ -1,4 +1,4 @@
-package estudos.MathClass;
+package estudos.mathClass;
 
 public class MathClass {
     public static void main(String[] args) {

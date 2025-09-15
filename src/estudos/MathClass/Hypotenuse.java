@@ -1,4 +1,4 @@
-package estudos.MathClass;
+package estudos.mathClass;
 
 import java.util.Scanner;
 
