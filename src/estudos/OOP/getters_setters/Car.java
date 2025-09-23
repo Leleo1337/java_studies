@@ -2,7 +2,7 @@ package estudos.OOP.getters_setters;
 
 public class Car {
 
-    private String model;
+    private final String model;
     private String color;
     private int price;
 
@@ -23,11 +23,7 @@ public class Car {
     String getPrice() {
         return "$" + this.price;
     }
-
-    void setModel(String model) {
-        this.model = model
-    }
-
+    
     void setColor(String color) {
         this.color = color;
     }
