@@ -1,4 +1,4 @@
-package estudos.OOP.wrapperClasses;
+package estudos.wrapperClasses;
 
 public class Main {
     public static void main(String[] args) {
@@ -21,7 +21,11 @@ public class Main {
         boolean h = d;
 
         System.out.println(a.toString() + b);
-        System.out.println();
 
+        char letter = '$';
+        System.out.println(Character.isLetter(letter));
+
+        int num = Integer.parseInt("2");
+        System.out.println(num + 1);
     }
 }
