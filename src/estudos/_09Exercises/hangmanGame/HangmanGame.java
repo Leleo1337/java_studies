@@ -15,7 +15,6 @@ public class HangmanGame {
         ArrayList<Character> wordState = new ArrayList<>();
 
         String word = getRandomWord();
-        System.out.println(word);
         char guess;
         int wrongGuesses = 0;
 
