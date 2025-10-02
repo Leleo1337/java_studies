@@ -1,4 +1,4 @@
-package estudos.OOP.anonymousClasses;
+package estudos.anonymousClasses;
 
 public class Dog {
 
